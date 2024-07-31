@@ -45,7 +45,7 @@ class StockPortfolio:
         print(f"Total portfolio value: ${total_value:.2f}")
 
 def main():
-    API_KEY = "your_api_key_here"  # Replace with your actual API key
+    API_KEY = "201P9L0G9EQU54G3"  
     portfolio = StockPortfolio(API_KEY)
 
     while True:
